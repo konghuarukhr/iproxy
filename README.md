@@ -1,2 +1,2 @@
 # iproxy
-IP Proxy
+IP Proxy - IP Layer Proxy
