@@ -25,5 +25,6 @@ cd src
 
 ## Client Side Start
 ```
+cd src
 ../script/start-client.sh
 ```
